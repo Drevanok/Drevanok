@@ -18,8 +18,6 @@ I am a passionate web developer with experience primarily in **JavaScript**, **H
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- **Backend Development**: Building effective and elegant solutions
-
 ### 📜 Certifications
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
 [JavaScript Moderno Guía Definitiva Construye +20 Proyectos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a2ea7dc-564d-4fba-be4e-6c71c084ed79.pdf)

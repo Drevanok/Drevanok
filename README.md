@@ -22,9 +22,11 @@ I am a passionate web developer with experience primarily in **JavaScript**, **H
 
 
 ### 📜 Certifications
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
-[JavaScript Moderno Guía Definitiva Construye +20 Proyectos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a2ea7dc-564d-4fba-be4e-6c71c084ed79.pdf)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)  
+[JavaScript Moderno Guía Definitiva Construye +20 Proyectos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a2ea7dc-564d-4fba-be4e-6c71c084ed79.pdf)  
 
----
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-006400?style=flat-square&logo=freeCodeCamp&logoColor=white)  
+[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/fcca0302610-ae54-4f75-a14d-0dca5f0f24ec/javascript-algorithms-and-data-structures)
+
 
 Feel free to connect with me or explore my projects!

@@ -2,13 +2,13 @@
 
 I am a passionate web developer with experience primarily in **JavaScript**, **HTML**, **CSS**, and with databases like **MySQL** and **MongoDB**. I specialize in creating effective and elegant solutions in backend development.
 
-### 🎮 About Me
+### About Me
 
 - I'm passionate about souls-like video games, and my favorite game is **Elden Ring**.
 - I also enjoy movies and series like **Game of Thrones**, **The Hobbit**, and **The Lord of the Rings**.
 - Currently, I am a seventh-semester student at **ITE University (Instituto Tecnológico de Ensenada)**, pursuing a degree in **Computer Systems Engineering**.
 
-### 🛠️ My Skills
+### My Skills
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -21,7 +21,7 @@ I am a passionate web developer with experience primarily in **JavaScript**, **H
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
-### 📜 Certifications
+### Certifications
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)  
 [JavaScript Moderno Guía Definitiva Construye +20 Proyectos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a2ea7dc-564d-4fba-be4e-6c71c084ed79.pdf)  
 

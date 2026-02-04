@@ -1,6 +1,6 @@
 ## Hi there, I'm Saúl Aparicio
 
-I am a passionate web developer with experience primarily in **JavaScript**, **HTML**, **CSS**, and with databases like **MySQL** and **MongoDB**. I specialize in creating effective and elegant solutions in backend development.
+I have hands-on experience developing REST APIs with NestJS, working with databases such as MySQL, MongoDB, and SQL Server, and building scalable backend services.
 
 ### About Me
 

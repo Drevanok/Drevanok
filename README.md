@@ -6,7 +6,7 @@ I have hands-on experience developing REST APIs with NestJS, working with databa
 
 - I'm passionate about souls-like video games, and my favorite game is **Elden Ring**.
 - I also enjoy movies and series like **Game of Thrones**, **The Hobbit**, and **The Lord of the Rings**.
-- Currently, I am a seventh-semester student at **ITE University (Instituto Tecnológico de Ensenada)**, pursuing a degree in **Computer Systems Engineering**.
+- Computer Systems Engineering graduate from Instituto Tecnológico de Ensenada (ITE).
 
 ### My Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

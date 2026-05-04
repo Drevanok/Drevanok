@@ -1,6 +1,6 @@
 ## Hi there, I'm Saúl Aparicio
 
-I have hands-on experience developing REST APIs with NestJS, working with databases such as MySQL, MongoDB, and SQL Server, and building scalable backend services.
+I have hands-on experience developing REST APIs with NestJS, working with databases such as MySQL and MongoD, and building scalable backend services.
 
 ### About Me
 

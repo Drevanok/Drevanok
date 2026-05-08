@@ -17,7 +17,6 @@ I have hands-on experience developing REST APIs with NestJS, working with databa
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Certifications
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)  
